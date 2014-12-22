@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti list-versions\n\n  {:arglists '[[config artifact-thing]]}\n  dispatch)", :ns "grimoire.api", :name "list-versions", :file "grimoire/api.clj", :column 1, :line 29, :arglists [[config artifact-thing]]}

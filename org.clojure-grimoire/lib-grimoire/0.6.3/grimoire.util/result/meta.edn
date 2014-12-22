@@ -1,0 +1,1 @@
+{:ns "grimoire.util", :name "result", :file "grimoire/util.clj", :type :fn, :src "(defn result [x]\n  {:pre [(succeed? x)]}\n  (second x))", :column 1, :line 39, :arglists ([x])}

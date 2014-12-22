@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "thing->root-to", :file "grimoire/things.clj", :type :fn, :src "(defn thing->root-to [t thing]\n  (->> thing\n       (iterate :parent)\n       (take-while identity)\n       (reverse)\n       (take-while #(not (= (:type %1) t)))\n       (map :name)\n       (interpose \"/\")\n       (apply str)))", :column 1, :line 139, :arglists ([t thing])}

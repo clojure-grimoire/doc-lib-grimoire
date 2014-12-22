@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "path->thing", :file "grimoire/things.clj", :type :fn, :src "(defn path->thing [path]\n  (->> (string/split path #\"/\")\n       (map vector [:group :artifact :version :namespace :def])\n       (reduce (fn [acc [t v]]\n                 (if v (->T t acc v) acc))\n               nil)))", :column 1, :line 121, :arglists ([path])}

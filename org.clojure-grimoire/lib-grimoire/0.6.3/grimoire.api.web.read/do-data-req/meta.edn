@@ -1,0 +1,1 @@
+{:ns "grimoire.api.web.read", :name "do-data-req", :file "grimoire/api/web/read.clj", :type :fn, :src "(defn do-data-req [config thing op]\n  (let [?res (-> (make-request config thing op)\n                slurp\n                edn/read-string)]\n    ((if (grim-succeed? ?res)\n       succeed fail)\n     (grim-result ?res))))", :column 1, :line 42, :arglists ([config thing op])}

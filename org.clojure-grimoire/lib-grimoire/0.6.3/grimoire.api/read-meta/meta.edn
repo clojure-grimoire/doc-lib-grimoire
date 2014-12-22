@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti read-meta\n\n  {:arglists '[[config thing]]}\n  dispatch)", :ns "grimoire.api", :name "read-meta", :file "grimoire/api.clj", :column 1, :line 71, :arglists [[config thing]]}

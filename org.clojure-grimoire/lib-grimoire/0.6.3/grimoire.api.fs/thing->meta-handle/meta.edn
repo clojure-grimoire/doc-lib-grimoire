@@ -1,0 +1,1 @@
+{:ns "grimoire.api.fs", :name "thing->meta-handle", :file "grimoire/api/fs.clj", :type :fn, :src "(defn thing->meta-handle\n  \"Helper for getting a file handle for reading and writing meta\"\n\n  [c thing]\n  (let [h (thing->handle c :meta thing)]\n    h))", :column 1, :line 49, :arglists ([c thing]), :doc "Helper for getting a file handle for reading and writing meta"}

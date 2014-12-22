@@ -1,0 +1,1 @@
+{:doc "This namespace serves to implement an abstraction layer for looking\n  up examples, symbols, namespaces and artifacts as values without\n  regard to the implementation of the datastore. Ports of Grimoire to\n  different datastores should only need to extend the multimethods in\n  this namespace."}

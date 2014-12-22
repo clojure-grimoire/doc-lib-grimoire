@@ -1,0 +1,1 @@
+{:ns "grimoire.lib", :name "foo", :file "grimoire/lib.clj", :type :fn, :src "(defn foo\n  \"I don't do a whole lot.\"\n  [x]\n  (println x \"Hello, World!\"))", :column 1, :line 3, :arglists ([x]), :doc "I don't do a whole lot."}

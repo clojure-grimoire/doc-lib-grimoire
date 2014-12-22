@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "thing->relative-path", :file "grimoire/things.clj", :type :fn, :src "(defn thing->relative-path [t thing]\n  (->> thing\n       (iterate :parent)\n       (take-while #(not (= (:type %1) t)))\n       (reverse)\n       (map :name)\n       (interpose \"/\")\n       (apply str)))", :column 1, :line 130, :arglists ([t thing])}
