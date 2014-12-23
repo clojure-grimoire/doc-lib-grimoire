@@ -1,0 +1,1 @@
+{:ns "grimoire.api.web.read", :name "make-request", :file "grimoire/api/web/read.clj", :type :fn, :src "(defn make-request [config thing op]\n  (str (-> config :datastore :host)\n       baseurl (:uri thing)\n       \"?op=\" op \"&type=edn\"))", :column 1, :line 37, :arglists ([config thing op])}

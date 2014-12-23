@@ -1,0 +1,1 @@
+{:doc "Filesystem datastore implementation details. This namespace is not part of\n  the intentional API exposed in `grimoire.api` and should not be used by\n  library client code."}

@@ -1,0 +1,1 @@
+{:ns "grimoire.util", :name "succeed?", :file "grimoire/util.clj", :type :fn, :src "(defn succeed? [x]\n  {:pre [(vector? x)]}\n  (= :succeed (first x)))", :column 1, :line 35, :arglists ([x])}

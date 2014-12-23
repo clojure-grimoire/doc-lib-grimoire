@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "->T", :file "grimoire/things.clj", :type :fn, :src "(defn ->T [t parent name]\n  {:type   t\n   :parent parent\n   :name   name\n   :uri    (str (:uri parent)\n                (when (:uri parent) \"/\")\n                name)})", :column 1, :line 8, :arglists ([t parent name])}

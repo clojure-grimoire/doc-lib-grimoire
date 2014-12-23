@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "thing->artifact", :file "grimoire/things.clj", :type :fn, :src "(defn thing->artifact [thing]\n  (if-not (isa? :artifact thing)\n    (when thing (recur (:parent thing)))\n    thing))", :column 1, :line 23, :arglists ([thing])}

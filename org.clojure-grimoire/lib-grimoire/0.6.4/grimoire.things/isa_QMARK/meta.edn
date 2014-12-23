@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "isa?", :file "grimoire/things.clj", :type :fn, :src "(defn isa? [t o]\n  (= (:type o) t))", :column 1, :line 5, :arglists ([t o])}

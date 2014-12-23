@@ -1,0 +1,1 @@
+{:ns "grimoire.api.web.read", :name "grim-succeed?", :file "grimoire/api/web/read.clj", :type :fn, :src "(defn grim-succeed? [result]\n  (= (:result result) :success))", :column 1, :line 31, :arglists ([result])}

@@ -1,0 +1,1 @@
+{:ns "grimoire.api", :name "dispatch", :file "grimoire/api.clj", :type :fn, :src "(defn dispatch [config & more]\n  (-> config :datastore :mode))", :column 1, :line 13, :arglists ([config & more])}

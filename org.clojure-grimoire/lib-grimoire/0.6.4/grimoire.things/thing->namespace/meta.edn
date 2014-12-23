@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "thing->namespace", :file "grimoire/things.clj", :type :fn, :src "(defn thing->namespace [thing]\n  (if-not (isa? :namespace thing)\n    (when thing (recur (:parent thing)))\n    thing))", :column 1, :line 33, :arglists ([thing])}
