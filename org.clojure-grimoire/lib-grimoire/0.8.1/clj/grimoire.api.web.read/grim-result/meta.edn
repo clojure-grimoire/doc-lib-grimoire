@@ -1,0 +1,1 @@
+{:ns "grimoire.api.web.read", :name "grim-result", :file "grimoire/api/web/read.clj", :type :fn, :src "(defn grim-result\n  \"λ [t] → y\n\n  Helper, destructures out the body of a Grimoire web result.\"\n  [result]\n  (:body result))", :column 1, :line 37, :arglists ([result]), :doc "λ [t] → y\n\n  Helper, destructures out the body of a Grimoire web result."}

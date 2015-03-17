@@ -1,0 +1,1 @@
+{:type :fn, :src "(defmulti -list-platforms dispatch)", :ns "grimoire.api", :name "-list-platforms", :file "grimoire/api.clj", :column 1, :line 27}

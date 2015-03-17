@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "->Ns", :file "grimoire/things.clj", :type :fn, :src "(defn ->Ns\n  [platform namespace]\n  (let [v (->namespace platform namespace)]\n    (assoc v ::url (thing->path v))))", :column 1, :line 216, :arglists ([platform namespace])}

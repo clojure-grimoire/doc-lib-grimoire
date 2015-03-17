@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "version?", :file "grimoire/things.clj", :type :fn, :src "(v/deftag version\n  \"Represents a Maven version, rooted on an artifact.\"\n  [parent, name]\n  {:pre [(artifact? parent)\n         (string? name)]})", :column 1, :line 33, :arglists ([x__661__auto__]), :doc "Generated predicate for the version type."}

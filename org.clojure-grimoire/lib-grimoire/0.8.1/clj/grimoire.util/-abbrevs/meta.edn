@@ -1,0 +1,1 @@
+{:ns "grimoire.util", :name "-abbrevs", :file "grimoire/util.clj", :type :var, :src "(def -abbrevs\n  {\"clojure\"       \"clj\"\n   \"clojurescript\" \"cljs\"\n   \"clojureclr\"    \"cljclr\"\n\n   ;; In the hope that one day support will be in order\n   \"oxlang\"        \"ox\"\n   \"pixie\"         \"pixi\"\n   \"toccata\"       \"toc\"})", :column 1, :line 38}

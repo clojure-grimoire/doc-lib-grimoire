@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "->group", :file "grimoire/things.clj", :type :fn, :src "(v/deftag group\n  \"Represents a Maven group.\"\n  [name]\n  {:pre [(string? name)]})", :column 1, :line 22, :arglists ([name]), :doc "Generated constructor for the group type."}
