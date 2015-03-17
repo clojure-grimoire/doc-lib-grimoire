@@ -4,4 +4,4 @@ Clojure is copyright to Reid "arrdem" McKenzie, distributed under the terms of t
 As this repository is solely for work extracted from Clojure (documentation, metadata) it shares this license.
 
 PRs and other contributions not accepted.
-This repo seeks to be a mirror of the metadata and documentation state of each Clojure version.
+This repo seeks to be a mirror of the metadata and documentation state of each lib-grimoire version.
