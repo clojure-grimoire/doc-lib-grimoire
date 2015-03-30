@@ -1,0 +1,1 @@
+{:type :fn, :src "(defmulti -list-versions dispatch)", :ns "grimoire.api", :name "-list-versions", :file "grimoire/api.clj", :column 1, :line 26}

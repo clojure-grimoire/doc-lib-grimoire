@@ -1,0 +1,1 @@
+{:ns "grimoire.either", :name "Failure?", :file "grimoire/either.clj", :type :fn, :src "(v/deftag Failure\n  \"λ [t] → Fail[x]\n\n  Type constructor. Returns a pair [:fail x] for all x.\n\n  ∀x (fail? (fail x)) == true\n  ∀x (message (fail x)) == x\"\n  [message])", :column 1, :line 26, :arglists ([x__787__auto__]), :doc "Generated predicate for the Failure type."}

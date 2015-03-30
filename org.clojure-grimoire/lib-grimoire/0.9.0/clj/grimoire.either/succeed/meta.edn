@@ -1,0 +1,1 @@
+{:ns "grimoire.either", :name "succeed", :file "grimoire/either.clj", :type :fn, :src "(def succeed  ->Succeess)", :column 1, :line 14}

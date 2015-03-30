@@ -1,0 +1,1 @@
+{:type :fn, :src "(defmulti -read-meta dispatch)", :ns "grimoire.api", :name "-read-meta", :file "grimoire/api.clj", :column 1, :line 34}

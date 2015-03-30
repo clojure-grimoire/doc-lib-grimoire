@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "artifact", :file "grimoire/things.clj", :type :var, :src "(v/deftag artifact\n  \"Represents a Maven artifact, rooted on a group.\"\n  [parent, name]\n  {:pre [(group? parent)\n         (string? name)]})", :column 1, :line 28, :doc "Represents a Maven artifact, rooted on a group."}
