@@ -1,0 +1,1 @@
+{:ns "grimoire.api.fs.impl", :name "file?", :file "grimoire/api/fs/impl.clj", :type :fn, :src "(defn file?\n  [h]\n  (instance? java.io.File h))", :column 1, :line 11, :arglists ([h])}

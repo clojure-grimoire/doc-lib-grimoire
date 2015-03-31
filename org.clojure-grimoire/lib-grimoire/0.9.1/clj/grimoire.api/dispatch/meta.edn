@@ -1,0 +1,1 @@
+{:ns "grimoire.api", :name "dispatch", :file "grimoire/api.clj", :type :fn, :src "(defn dispatch\n  \"Common dispatch function for all the API multimethods.\"\n  [config & more]\n  (v/tag config))", :column 1, :line 17, :arglists ([config & more]), :doc "Common dispatch function for all the API multimethods."}

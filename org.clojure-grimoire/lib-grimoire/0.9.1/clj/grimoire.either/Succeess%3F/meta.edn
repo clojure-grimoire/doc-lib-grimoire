@@ -1,0 +1,1 @@
+{:ns "grimoire.either", :name "Succeess?", :file "grimoire/either.clj", :type :fn, :src "(v/deftag Succeess\n  \"λ [t] → Success[t]\n\n  ∀x (succeed? (succeed x)) == true\n  ∀x (result (succeed x)) == x\"\n  [result])", :column 1, :line 7, :arglists ([x__459__auto__]), :doc "Generated predicate for the Succeess type."}

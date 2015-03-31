@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "leaf?", :file "grimoire/things.clj", :type :fn, :src "(defn leaf?\n  \"Predicate testing whether the input Thing is either an example or a\n  note.\"\n  [t]\n  (or (note? t)\n      (example? t)))", :column 1, :line 95, :arglists ([t]), :doc "Predicate testing whether the input Thing is either an example or a\n  note."}

@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "->Platform", :file "grimoire/things.clj", :type :fn, :src "(defn ->Platform\n  [version platform]\n  (let [v (->platform version (u/normalize-platform platform))]\n    (assoc v ::url (thing->path v))))", :column 1, :line 209, :arglists ([version platform])}
