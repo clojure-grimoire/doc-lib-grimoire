@@ -1,0 +1,1 @@
+{:ns "grimoire.api.web", :name "store-base-str", :file "grimoire/api/web.clj", :type :var, :src "(def store-base-str \"/store/v1/\")", :column 1, :line 26}

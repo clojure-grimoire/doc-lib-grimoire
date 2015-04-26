@@ -1,0 +1,1 @@
+{:ns "grimoire.either", :name "Succeess", :file "grimoire/either.clj", :type :var, :src "(v/deftag Succeess\n  \"λ [t] → Success[t]\n\n  ∀x (succeed? (succeed x)) == true\n  ∀x (result (succeed x)) == x\"\n  [result])", :column 1, :line 7, :doc "λ [t] → Success[t]\n\n  ∀x (succeed? (succeed x)) == true\n  ∀x (result (succeed x)) == x"}

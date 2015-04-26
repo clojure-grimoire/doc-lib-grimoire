@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "short-string-pattern", :file "grimoire/things.clj", :type :var, :src "(def short-string-pattern\n  #\"(\\w{3,6})::([^\\s/,;:\\\"'\\[\\]\\(\\)\\s]+)(/([^,;:\\\"\\[\\]\\(\\)\\s]+))?\")", :column 1, :line 434}

@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "artifact?", :file "grimoire/things.clj", :type :fn, :src "(t/deftag artifact\n  \"Represents a Maven artifact, rooted on a group.\"\n  [parent, name]\n  {:pre [(group? parent)\n         (string? name)]})", :column 1, :line 29, :arglists ([x__5516__auto__]), :doc "Generated predicate for the artifact type."}

@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "group?", :file "grimoire/things.clj", :type :fn, :src "(t/deftag group\n  \"Represents a Maven group.\"\n  [name]\n  {:pre [(string? name)]})", :column 1, :line 24, :arglists ([x__5516__auto__]), :doc "Generated predicate for the group type."}

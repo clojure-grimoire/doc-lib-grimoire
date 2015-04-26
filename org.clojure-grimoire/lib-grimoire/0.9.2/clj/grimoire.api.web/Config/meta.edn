@@ -1,0 +1,1 @@
+{:ns "grimoire.api.web", :name "Config", :file "grimoire/api/web.clj", :type :var, :src "(deftag Config\n  \"A configuration for the web backend. Stores the base URL for the\n  API host.\"\n  [host])", :column 1, :line 5, :doc "A configuration for the web backend. Stores the base URL for the\n  API host."}

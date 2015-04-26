@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "->Version", :file "grimoire/things.clj", :type :fn, :src "(defn ->Version\n  [artifact version]\n  (let [v (->version artifact version)]\n    (assoc v ::url (thing->url-path v))))", :column 1, :line 189, :arglists ([artifact version])}

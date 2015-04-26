@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "full-uri-pattern", :file "grimoire/things.clj", :type :var, :src "(def full-uri-pattern\n  #\"(grim\\+(group|artifact|version|platform|namespace|def)(\\+(note|example))?):([^?&#]+)([?&#].*)?\")", :column 1, :line 418}
