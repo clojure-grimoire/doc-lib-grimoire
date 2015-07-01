@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "->def", :file "grimoire/things.clj", :type :fn, :src "(t/deftag def\n  \"Represents a Clojure \\\"Def\\\" rooted in a namespace on a platform in\n  a version of an artifact.\"\n  [parent, name]\n  {:pre [(namespace? parent)\n         (string? name)]})", :column 1, :line 64, :arglists ([parent name]), :doc "Generated constructor for the def type."}

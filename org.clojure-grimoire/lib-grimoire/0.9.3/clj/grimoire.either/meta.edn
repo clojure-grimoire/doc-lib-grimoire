@@ -1,0 +1,1 @@
+{:doc "Quick and dirty implementation of something like Haskell's Either[Success,\n  Failure] for Clojure. Not the nicest thing in the world, but it'll do the\n  job. Used to indicate success and failure throughout the lib-grimoire API."}

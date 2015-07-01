@@ -1,0 +1,1 @@
+{:ns "grimoire.api.web", :name "api-base-str", :file "grimoire/api/web.clj", :type :var, :src "(def api-base-str \"/api/v2/\")", :column 1, :line 10}

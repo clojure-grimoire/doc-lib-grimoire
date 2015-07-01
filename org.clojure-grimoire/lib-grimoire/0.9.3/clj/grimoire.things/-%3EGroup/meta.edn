@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "->Group", :file "grimoire/things.clj", :type :fn, :src "(defn ->Group\n  ([groupid]\n   {:pre [(string? groupid)]}\n   (let [v (->group groupid)]\n     (assoc v ::url (thing->url-path v))))\n\n  ([_ groupid]\n   (->Group groupid)))", :column 1, :line 175, :arglists ([groupid] [_ groupid])}

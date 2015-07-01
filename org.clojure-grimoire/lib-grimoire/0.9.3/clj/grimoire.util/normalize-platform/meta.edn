@@ -1,0 +1,1 @@
+{:ns "grimoire.util", :name "normalize-platform", :file "grimoire/util.clj", :type :fn, :src "(def normalize-platform\n  (comp #(get -abbrevs %1 %1)\n        #(.toLowerCase %)\n        name))", :column 1, :line 50}

@@ -1,0 +1,1 @@
+{:ns "grimoire.things", :name "->Note", :file "grimoire/things.clj", :type :fn, :src "(defn ->Note\n  [thing name handle]\n  (let [v (->note thing name handle)]\n    (assoc v ::url handle)))", :column 1, :line 214, :arglists ([thing name handle])}
